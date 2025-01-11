@@ -42,6 +42,7 @@ I am Mohamed Ayman, a software developer specializing in web application develop
 
 ## Education
 - **Bachelor's Degree in Computer Science** - Zagazig University
+- **Software engineering** - ALX Africa
 
 ## Hobbies
 ![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=code&logoColor=white)
