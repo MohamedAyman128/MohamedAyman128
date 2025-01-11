@@ -1,7 +1,6 @@
 # Mohamed Ayman
 
-## About Me
-![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)
+## ![About Me](https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)
 I am Mohamed Ayman, a software developer specializing in web application development. I work on innovative projects and am passionate about continuous learning and skill development.
 
 ## Skills
